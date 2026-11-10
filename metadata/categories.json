@@ -1,0 +1,28 @@
+{
+  "_comment": "Dosya adi on eki -> baslik. Ornek: rays_heart.mp4 -> 'Light Rays Inside a Mirror – Heart | Satisfying Simulation'. Istedigin gibi duzenle.",
+  "title_suffix": "Satisfying Simulation",
+  "description": "{title}\n\nA mesmerizing math & physics simulation. Follow for a new one every day!\n\n{hashtags}",
+  "common_tags": ["shorts", "satisfying", "simulation", "physics", "math", "oddlysatisfying"],
+  "categories": {
+    "double_pendulum": {"title": "Double Pendulum Chaos", "tags": ["doublependulum", "chaostheory"]},
+    "pendulum_wave": {"title": "Pendulum Wave", "tags": ["pendulumwave", "pendulum"]},
+    "balls": {"title": "Bouncing Balls", "tags": ["bouncingballs"]},
+    "rays": {"title": "Light Rays Inside a Mirror", "tags": ["light", "reflection", "optics"]},
+    "string": {"title": "Vibrating String", "tags": ["waves", "string"]},
+    "paint3d": {"title": "3D Paint Pattern", "tags": ["geometry", "generativeart"]},
+    "galton": {"title": "Galton Board", "tags": ["galtonboard", "probability"]},
+    "escape": {"title": "Escape the Rings", "tags": ["bouncingball", "escape"]},
+    "harmonograph": {"title": "Harmonograph", "tags": ["harmonograph", "generativeart"]},
+    "golden_angle": {"title": "Golden Angle Spiral", "tags": ["goldenratio", "fibonacci"]},
+    "gap": {"title": "Ball Escaping the Gap", "tags": ["bouncingball", "escape"]}
+  },
+  "variant_names": {
+    "ellcenter": "Ellipse Center",
+    "slowspin": "Slow Spin",
+    "slowgrow": "Slow Grow",
+    "spiral_tri": "Spiral Triangle",
+    "core_left": "Core Left",
+    "core_small": "Small Core",
+    "chain_fast": "Fast Chain"
+  }
+}
