@@ -3,8 +3,8 @@ name: YouTube Shorts paylas
 on:
   schedule:
     # Saatler UTC. Turkiye saati = UTC + 3.
-    - cron: "7 13 * * *"   # 16:07 TR
-    - cron: "7 19 * * *"   # 22:07 TR
+    # Gunde 15 video: 12:07 - 02:07 TR arasi saatte bir. 101 video ~7 gunde biter.
+    - cron: "7 9-23 * * *"
   workflow_dispatch:
     inputs:
       dry_run:

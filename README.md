@@ -1,6 +1,6 @@
 # YouTube Shorts otomatik paylaşım
 
-`videos/` klasöründeki videoları günde 2 kez (16:07 ve 22:07 TR) sırayla YouTube kanalına yükler.
+`videos/` klasöründeki videoları günde 15 kez (12:07–02:07 TR arası saatte bir) sırayla YouTube kanalına yükler.
 Başlık, açıklama ve etiketler dosya adından İngilizce üretilir; aynı türden iki video art arda gelmez.
 
 ## Kurulum (bir kerelik)
